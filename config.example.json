@@ -1,0 +1,8 @@
+{
+    "ech": {
+        "13335": "\"AEX+DQBBWwAgACC2WSb7Z+ZiDGby7ABUUH8CpjPo+bDPjC9XTUUUW6acFgAEAAEAAQASY2xvdWRmbGFyZS1lY2guY29tAAA=\""
+    },
+    "modules": {
+        "maxmind": "/etc/pdns/ech-injector/GeoLite2-ASN/GeoLite2-ASN.mmdb"
+    }
+}

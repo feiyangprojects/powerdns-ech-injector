@@ -1,0 +1,6 @@
+[submodule "modules/mmdb"]
+	path = modules/mmdb
+	url = https://github.com/daurnimator/mmdblua.git
+[submodule "modules/json"]
+	path = modules/json
+	url = https://github.com/rxi/json.lua.git
